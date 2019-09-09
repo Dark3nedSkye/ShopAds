@@ -1,0 +1,11 @@
+name: PlayerShopAds
+version: ${project.version}
+main: com.dxrkenedsky.playershopads.PlayerShopAds
+api-version: 1.13
+authors: [DxRKENEDSKY]
+description: Advertise your player shop!
+
+commands:
+  shopad:
+    description: add shop ad
+    usage: /shopad
